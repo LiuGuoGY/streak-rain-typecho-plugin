@@ -60,7 +60,7 @@ canvas
 	top:0px;
 }
 </style>
-<script src="http://github.zhusaidong.cn/streak-rain/dist/streak-rain-min.js"></script>
+<script src="https://raw.githubusercontent.com/zhusaidong/streak-rain/master/dist/streak-rain-min.js"></script>
 <script>
 	new StreakRain({
 		speed	:"$speed",
